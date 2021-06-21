@@ -43,5 +43,5 @@
 [website]: https://github.com/hassanel
 [twitter]: https://twitter.com/hasselga
 [instagram]: https://www.instagram.com/hassanelgafif
-[linkedin]: www.linkedin.com/in/hassan-elgafif
+[linkedin]: https://www.linkedin.com/in/hassan-elgafif
 [researchgate]: https://www.researchgate.net/profile/Hassan-El-Gafif
